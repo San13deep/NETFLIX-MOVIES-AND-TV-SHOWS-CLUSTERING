@@ -17,8 +17,7 @@ FlixRecommender recommends Netflix movies and TV shows based on a user's favouri
 *	Netflix csv file
 
 ## Data Source
-For my project, I will collect a Netflix data set from [Kaggle](https://www.kaggle.com/shivamb/netflix-shows):
-
+For my project, I will collect a Netflix data set from [AlmaBetter]
 1.	The data set presents information about movies and TV shows (*6234* in total) such as the title, director, cast, country, rating (ex. PG, PG-13, R, etc.), genre, and plot description. Please note only movies and TV shows available on Netflix as of 2019 were included in the data set.
 
 ## Dash Web App
