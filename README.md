@@ -5,12 +5,12 @@
 <h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter </a> </h5>
 
 <p align="center"> 
-  <img src="C:\Users\sande\Downloads\05cItXL96l4LE9n02WfDR0h-6.png"height="382px">
+<img src="C:\Users\sande\Downloads\05cItXL96l4LE9n02WfDR0h-6.png"height="382px">
 <img src="Images/05cItXL96l4LE9n02WfDR0h-6.png" alt="05cItXL96l4LE9n02WfDR0h-6.png" height="382px">
 </p>
 
 <p align="center"> 
-<img src="gif/netflix-netflix-logo.gif" alt="Animated gif" height="382px">
+<img src="gif/netflix-netflix-logo.gif" alt="netflix-netflix-logo.gif" height="382px">
 </p>
 
 <h2> :floppy_disk: Project Files Description</h2>
