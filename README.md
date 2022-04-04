@@ -9,6 +9,10 @@
 <img src="Images/05cItXL96l4LE9n02WfDR0h-6.png" alt="05cItXL96l4LE9n02WfDR0h-6.png" height="382px">
 </p>
 
+<p align="center"> 
+<img src="gif/netflix-netflix-logo.gif" alt="Animated gif" height="382px">
+</p>
+
 <h2> :floppy_disk: Project Files Description</h2>
 
 <p>This Project includes 1 colab notebook, 1 technical documentation as well as 1 presentation:</p>
@@ -41,7 +45,7 @@
 <p><b>1) NETFLIX MOVIES AND TV SHOWS CLUSTERING.ipynb</b></p>
 <p>First, click on the open in colab button present on the top center of the notebook.</p>
 <p><b>2) Kaggle Dataset</b></p>
-<p>Downlaod the dataset from kaggle through provided link.Then, connect to the runtime and execute the cell to mount the drive or upload the data file to the current runtime.</p>
+<p>Downlaod the dataset from Almabetter through provided link.Then, connect to the runtime and execute the cell to mount the drive or upload the data file to the current runtime.</p>
 <p><b>3) Cell Path</b></p>
 <p>Finally, delete the path in the dataset loading cell and replace it with the path of your current data file. Run each cell to see the output below it.</p>
 
