@@ -5,8 +5,10 @@
 <h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter </a> </h5>
 
 <p align="center"> 
-<img src="gif/netflix-netflix-logo.gif" alt="netflix-netflix-logo.gif" height="382px">
+<img src="gif/netflix-netflix-logo.gif" alt="Animated gif" height="382px">
 </p>
+
+<p>I have clustered similar movies and TV Shows available on Netflix taking into account of attributes like Description, Cast, Director, Genre etc of a particular movie/show.</p>
 
 <h2> :floppy_disk: Project Files Description</h2>
 
