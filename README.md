@@ -108,8 +108,3 @@ it will solve for improved movie and TV-Show selection times with a considerable
 <p>Finally, delete the path in the dataset loading cell and replace it with the path of your current data file. Run each cell to see the output below it.</p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-<!-- CREDITS -->
-<h2 id="credits"> :scroll: Credits</h2>
-Avid Learner | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
-
