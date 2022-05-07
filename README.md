@@ -56,10 +56,11 @@ Integrating this dataset with other external datasets such as IMDB ratings, rott
 * listed_in : Genere
 * description: The Summary description
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-## Dash Web App
+
+# Dash Web App:
 I created a Dash web app that utlizes my model to provide film recommendations based on a user's favourite movie or TV show.
 
-![App](https://github.com/xavier-lim/flixRecommender/blob/master/images/App.PNG)
+![App](https://github.com/San13deep/NETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING/blob/6eacd171009b37abffa5992fe32c2bfc45384043/Images/App.png)
 
 # Exploring Solutions:
 Having a deeper understanding of what problem we are trying to solve, what the users’ needs, and frustrations are, and what the goals are for achieving the best possible solution for both for the business as well as the user, I began by listing out the possible solutions that were arrived from the research.
