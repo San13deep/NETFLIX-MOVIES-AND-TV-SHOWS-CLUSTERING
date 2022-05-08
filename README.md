@@ -32,6 +32,7 @@
 </ul>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 <h2> :book:Introduction</h2>
 Netflix, the world’s largest on-demand internet streaming media and online DVD movie rental service provider.it Founded August 29, 1997, in Los Gatos, California by Marc and Reed. It has 69 million members in over 60 countries enjoying more than 100 million hours of TV shows and movies per day
 Netflix is the world’s leading internet entertainment service with enjoying TV series, documentaries, and feature films across a wide variety of genres and languages. I was curious to analyze the content released in Netflix platform which led me to create these simple, interactive, and exciting visualizations and find similar groups of people.
@@ -55,9 +56,11 @@ Integrating this dataset with other external datasets such as IMDB ratings, rott
 * duration : Total Duration - in minutes or number of seasons
 * listed_in : Genere
 * description: The Summary description
+
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 # Dash Web App:
+NetflixRecommender recommends Netflix movies and TV shows based on a user's favourite movie or TV show. It uses a Natural Language Processing (NLP) model and a K-Means Clustering model to make these recommendations. These models use information about movies and TV shows such as their plot descriptions and genres to make suggestions. The motivation behind this project is to develop a deeper understanding of recommender systems. Specifically, thinking about how companies like Netflix and YouTube create algorithms to tailor content based on user interests and behaviour.
 I created a Dash web app that utlizes my model to provide film recommendations based on a user's favourite movie or TV show.
 
 ![App](https://github.com/San13deep/NETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING/blob/6eacd171009b37abffa5992fe32c2bfc45384043/Images/App.png)
@@ -84,27 +87,9 @@ It is an unsupervised learning method; hence no supervision is provided to the a
 
 # Conclusion
 it will solve for improved movie and TV-Show selection times with a considerable growth in satisfaction of the content being consumed leading to more user engagement and greater trust in Netflix recommendations.
-<h2> :book: K-Means And Recommender System</h2>
 
-<p>I have used a K Means clustering with an optimal value of k=26 for clustering the Text Based Columns. The value of k was chosen from the elbow method and silhouette score. 
-  
-<p> <i> Contact me for Data Science Project Collaborations</i></p>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeepmaurya13/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/San13deep/)
 
 
-
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-<h2> :clipboard: Execution Instruction</h2>
-<p>The order of execution of the colab notebook is as follows:</p>
-<p><b>1) NETFLIX MOVIES AND TV SHOWS CLUSTERING.ipynb</b></p>
-<p>First, click on the open in colab button present on the top center of the notebook.</p>
-<p><b>2) Almabetter Dataset</b></p>
-<p>Downlaod the dataset from Almabetter through provided link.Then, connect to the runtime and execute the cell to mount the drive or upload the data file to the current runtime.</p>
-<p><b>3) Cell Path</b></p>
-<p>Finally, delete the path in the dataset loading cell and replace it with the path of your current data file. Run each cell to see the output below it.</p>
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
