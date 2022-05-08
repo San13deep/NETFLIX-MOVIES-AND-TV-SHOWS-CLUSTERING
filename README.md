@@ -29,8 +29,6 @@
 <h4>Data Source:</h4>
 <li><b>https://learn.almabetter.com/courses/take/team-capstone-projects/texts/27395237-netflix-movies-and-tv-shows-clustering.</li>
 <ul>
-  <li><b>Dataset</b> - 
-</ul>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
